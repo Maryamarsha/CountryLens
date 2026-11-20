@@ -3,6 +3,20 @@
 
 CountryLens is a Python-based data analytics project that collects, cleans, validates, and analyzes geographical and demographic information about countries worldwide. It includes an interactive Streamlit dashboard for exploring and comparing countries.
 
+## 👥 Project Team & Contributions
+
+**Project:** CountryLens — Global Country Data ETL & Exploratory Analysis System
+
+**Department:** BS Artificial Intelligence
+
+| Group Member | Roll Number | Responsibility |
+|---|---|---|
+| Maryam Noor | 2025-AI-132 | Project integration, ETL pipeline and Streamlit dashboard |
+| Member 2 | 2025-AI-128| API data extraction |
+| Member 3 | 2025-AI-121 | Data transformation and Pydantic validation |
+| Member 4 | 2025-AI-135 | Exploratory data analysis and visualizations |
+
+All four members collaborated on the development, testing, documentation and completion of CountryLens.
 ## Project Objectives
 
 - Automate country data extraction using a public API.
